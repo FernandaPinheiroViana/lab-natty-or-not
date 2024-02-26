@@ -10,7 +10,7 @@ A Tecnologia utilizada HeyGen para criar o Avatar e a voz.
 Para criar primeiro foi necessária fazer um estudo sobre A Inteligência Artificial Generativa e seus impactos no mundo atual. Utilizei o HeyGen para escolher, criar e inserir o conteúdo estudado, gerando assim o Avatar. 
 
 ## 🚀 Resultados
-O resultado alcançado é um Avatar de qualidade de som e imagem, no qual explica algumas questões que são comuns sobre a Inteligência Artificial.
+O resultado alcançado é um Avatar de qualidade de som e imagem, no qual explica algumas questões que são comuns sobre a Inteligência Artificial. Para assistir ao vídeo criado utilizando o Avatar criado na HeyGen é só acessar ao arquivo IA-Avatar.
 
 ## 💭 Reflexão (Opcional)
 A oportunidade de criar um Avatar utilizando a Inteligência artificial é muito interessante, nos faz imaginar quantas coisas mais são possíveis de acontecer através da Inteligência Artificial, para isso devemos manter um estudo contínuo, de forma que alcancemos o conhecimento cada dia mais.
